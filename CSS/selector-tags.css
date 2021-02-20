@@ -1,0 +1,33 @@
+/* without ID this will mark all the divs as the color you assign */
+/* div{
+  color: green;
+} */
+/*
+with ids */
+
+.firstdiv{
+  color: orange;
+}
+.seconddiv{
+  color: green;
+}
+#FIP{
+  color: pink;
+  text-decoration: line-through;
+}
+/*
+if you want to do formatting of all the text that is next to h3, this is called jason siblings
+this formats things next to each other */
+h3 + ul{
+  border: 4px dotted red;
+}
+
+/* all anchor tags inside list */
+ li a {
+   color: purple;
+ }
+ /* specific anchor tag */
+ li a[href = "www.facebook.com"]{
+   color: blue;
+   border: 2px double blue;
+ }
