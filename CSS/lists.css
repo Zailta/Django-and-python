@@ -1,0 +1,16 @@
+/* This is how you make a comment in CSS*/
+/* select tag{
+
+}
+*/
+/* example: */
+h1{
+  color: purple;
+  }
+
+ol{
+  color: blue;
+}
+ul{
+  color: rgba(255,97,0);
+}
