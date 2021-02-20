@@ -1,0 +1,61 @@
+#head1{
+  color: white;
+  font-family: "Arial"
+
+}
+h2{
+  font-family: "arial"
+}
+.paragraphs{
+  text-align: center;
+color: white;
+font-style: italic;
+border: 3px solid black;
+
+}
+
+body{
+  background: rgb(252, 73, 3);
+  font-size: 20px;
+  text-align: center;
+  border:20px solid #FCAB64;
+  border-top: 0px;
+}
+.tableone{}
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  margin: auto;
+  border: 6px solid white;
+}
+  #one{
+    background-color: #FCEFEF;
+  }
+  #two{
+    background-color: #7FD8BE;
+  }
+  #three{
+    background-color: #FCD29F;
+  }
+  #four{
+    background-color: #FCAB64;
+  }
+  #five{
+    background-color: #A1FCDF;
+  }
+  label{
+    text-align: center;
+    font-family: "Arial"
+
+  }
+input{
+  text-align: center;
+
+}
+#button{
+  background-color: white;
+  height: 70px;
+  width: 70px;
+  border-radius: 10px;
+}
