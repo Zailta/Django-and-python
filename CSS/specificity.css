@@ -1,0 +1,12 @@
+li{
+  color: purple;
+}
+.firstclass{
+  color: green;
+}
+
+#two{
+  border: 2px solid yellow
+}
+
+/* above tags are in order of priority */

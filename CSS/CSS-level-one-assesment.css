@@ -1,0 +1,28 @@
+h1{
+  border: 3px dotted red;
+}
+body{
+  background: yellow;
+}
+#para1{
+  background-color: green;
+  color: white;
+}
+
+li a{
+  color: red;
+}
+input{
+  border : 1px solid rgb(144,0,0);
+}
+#textarea{
+  background: white;
+}
+.exit{
+  background-color: pink;
+  border: 2px dotted red;
+}
+/* if any site is visted then change color  */
+a:visited{
+  color: orange;
+}
