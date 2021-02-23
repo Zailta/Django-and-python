@@ -22,14 +22,27 @@
 //     console.log(i);
 //   }
 // }
-var first = prompt("Enter Your First Name")
-var last = prompt("Enter Your Last Name")
-var age = prompt("Enter Your Age")
-var height = prompt("Enter Your height")
-var pet_name = prompt("Enter Your Pet-Name")
-if((first==last) && (age>20 && age<30) && (height== 170) && (pet_name[pet_name.length-1]=== "y")){
-  alert("spy detected")
-}
-else {
-  alert("you got the wrong guy")
+
+
+
+
+
+// assesment project
+// var first = prompt("Enter Your First Name")
+// var last = prompt("Enter Your Last Name")
+// var age = prompt("Enter Your Age")
+// var height = prompt("Enter Your height")
+// var pet_name = prompt("Enter Your Pet-Name")
+// if((first==last) && (age>20 && age<30) && (height== 170) && (pet_name[pet_name.length-1]=== "y")){
+//   alert("spy detected")
+// }
+// else {
+//   alert("you got the wrong guy")
+// }
+
+
+
+//Data structures and functions
+function basic(num1, num2) {
+  console.log(num1+num2);
 }
