@@ -41,8 +41,53 @@
 // }
 
 
-
 //Data structures and functions
-function basic(num1, num2) {
-  console.log(num1+num2);
+//assesment 1- arrays, loops, switch case:
+
+// var roster = [];
+// function addNew(){
+//   var name = prompt("What is it that you want")
+//   roster.push(name);
+// }
+// function remove(){
+//   var remove = prompt("What is it that you want to remove")
+//   var index = roster.indexOf(remove)
+// }
+//
+// function display(){
+//   console.log(roster);
+// }
+// do {
+//
+// var start = prompt("Please enter your choice")
+// switch(start) {
+//   case 'add':
+//     addNew()
+//     break;
+//   case 'remove':
+//     remove()
+//     break;
+//     case 'display':
+//       display()
+//       break;
+//   default:
+//     alert("Not a valid input")
+//     break;
+// }
+// } while (start !== 'quit');
+
+var object = {
+  name: "Mohammad Mannan"
+  age:31
+employee: "programmer"
+method: function(){
+  alert(this.name)
+}
+namelength: function(){
+  alert(this.name.length)
+}
+lastname: function(){
+  alert(this.name.split(" ")[1])
+
+}
 }
